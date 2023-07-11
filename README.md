@@ -68,7 +68,6 @@ public class NumberGuessingGame {
         }
         scoreBoard.add(guess);
         System.out.println(" ");
-
         menu(scoreBoard);
     }
     public void displayScoreBoard() {
